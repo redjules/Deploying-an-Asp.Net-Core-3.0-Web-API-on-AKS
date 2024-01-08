@@ -56,4 +56,3 @@ Containirize dotnet core web Api using Docker, push to Azure Container Registry 
 
 7. kubectl get services
 
-### [Reference](https://www.youtube.com/watch?v=vBx7WY25fM0)
