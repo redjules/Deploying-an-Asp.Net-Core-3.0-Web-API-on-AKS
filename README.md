@@ -15,7 +15,7 @@ Containirize dotnet core web Api using Docker, push to Azure Container Registry 
 
 
 
-## [Docker - Containerize dotnet core Web Api](https://github.com/nidhisht/DockerKubernetesNotes/blob/master/README-Docker.md)
+## Docker - Containerize dotnet core Web Api
 
 
 
